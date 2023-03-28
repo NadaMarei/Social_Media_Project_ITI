@@ -59,7 +59,7 @@ const UserSchema = new mongoose.Schema(
         enum: [1, 2, 3],
       },
     },
-    { timestamps: true }
+    { timestamps: true } // when update it will automatically update timestamps
   );
   
   module.exports = mongoose.model("User", UserSchema);
