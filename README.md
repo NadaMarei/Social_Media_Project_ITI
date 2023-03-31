@@ -1,5 +1,5 @@
 # Social_Media_Project_ITI
-Node.js project implements a Social Media Backend Server. It includes CRUD operations for users, posts, comments, and reviews, and image uploading for user profile pictures. Additionally, it also includes features such as Role based authentication, request validation, error handling and data aggregation using MongoDB Aggregation Pipelines.
+Node.js project implements a Social Media Backend Server. It includes CRUD operations for users, posts, comments, and reviews, and image uploading for user profile pictures. Additionally, it also includes features such as Role based authentication, request validation, error handling and data aggregation using mongoDB aggregation pipelines.
 
 ## Technologies used
 
