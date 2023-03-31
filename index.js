@@ -8,7 +8,7 @@ const userRoute = require("./routes/users");
 const authRoute = require("./routes/auth");
 const postRoute = require("./routes/posts");
 const CommentRoute = require("./routes/comments");
-const ReviewRoute=require('./routes/Review');
+const ReviewRoute=require('./routes/reviews');
 
 // use .env for secret keys
 dotenv.config();
