@@ -15,18 +15,19 @@ Node.js project implements a Social Media Backend Server. It includes CRUD opera
 
 ## Features
 
-- User model and CRUD operations with role-based authentication.
-- Follow and Unfollow users
-- Post model and CRUD operations.
-- Like and dislike posts
-- Comments model and CRUD operations.
+- User model with CRUD operations and role-based authentication.
+- Follow and Unfollow users.
+- Post model with CRUD operations.
+- Like and dislike posts.
+- Comments model with CRUD operations.
 - Review model with CRUD operations.
-- Profile pictures for users with image uploading through Multer and Cloudinary
-- API protection for allowed roles
-- Retrieval of comments and reviews with each post
-- Retrieval of posts with each user
-- Protection of sensitive information like passwords
-- Request validation using Joi
+- Profile pictures for users with image uploading through Multer and Cloudinary.
+- API protection for allowed roles.
+- Retrieval of comments and reviews with each post.
+- Retrieval of posts with each user.
+- Protection of sensitive information like passwords.
+- Error handling.
+- Request validation using Joi.
 
 ## Prerequisites
 
