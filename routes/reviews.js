@@ -27,8 +27,6 @@ router.get('/:post_id/review',verify.authorizedUser, async(req,res)=>{
     }
     let average = sum / number;
     res.json({ average: `${average}` });
-    
-    // res.send(average);
 })
 
 
