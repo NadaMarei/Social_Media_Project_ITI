@@ -11,8 +11,6 @@ Node.js project implements a Social Media Backend Server. It includes CRUD opera
 - Multer
 - Joi
 - bcrypt
-- morgan
-- helmet
 - dotenv
 
 ## Features
