@@ -10,7 +10,6 @@ const postRoute = require("./routes/posts");
 const commentRoute = require("./routes/comments");
 const reviewRoute=require('./routes/reviews');
 
-// use .env for secret keys
 dotenv.config();
 
 // connected to MongoDB
