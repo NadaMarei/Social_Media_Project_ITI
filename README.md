@@ -15,7 +15,8 @@ Node.js project implements a Social Media Backend Server. It includes CRUD opera
 
 ## Features
 
-- User model with CRUD operations and role-based authentication.
+- User authentication and authorization with role-based access control.
+- User model with CRUD operations.
 - Follow and Unfollow users.
 - Post model with CRUD operations.
 - Like and dislike posts.
