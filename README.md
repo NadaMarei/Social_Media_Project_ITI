@@ -5,6 +5,7 @@ Node.js project implements a Social Media Backend Server. It includes CRUD opera
 
 - Node.js
 - Express.js
+- Nodemon
 - MongoDB
 - Mongoose
 - Cloudinary
